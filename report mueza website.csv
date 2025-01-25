@@ -1,0 +1,9 @@
+Test ID,Test Type,Details,Result,,
+T01,Dynamic Routing,Tested dynamic routing functionality to ensure seamless navigation between pages without errors.,Passed,,
+T02,Responsiveness,Checked the website's responsiveness across different screen sizes to ensure UI elements adapt correctly.,Passed,,
+T03,Load Time,Tested website load time to ensure minimal delays and fast page rendering.,Passed,,
+T04,SEO,Checked SEO best practices including meta tags,alt text for images,and proper heading structure for better discoverability.,Passed
+T05,Customization,Verified that the website allows proper customization options and settings as per user preferences.,Passed,,
+T06,API Testing,Tested API calls to ensure proper data retrieval and handling,with correct responses received from the server.,Passed,
+T07,Sanity Data Check,Verified that data from Sanity CMS is being fetched correctly and displayed as expected on the website.,Passed,,
+T08,Error Handling,Ensured proper error handling through try-catch blocks to manage failures and display relevant messages.,Passed,,
